@@ -46,6 +46,31 @@ namespace Jobs.Controllers
             return View(candidate);
         }
 
+        // GET: Candidates/Resume/5
+        public async Task<IActionResult> Resume(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var candidate = await _context.Candidates.Include(e => e.User)
+                .Include(t => t.Educations)
+                .Include(t => t.ProfessionalExperiences)
+                .FirstOrDefaultAsync(m => m.Id == id);
+            if (candidate == null)
+            {
+                return NotFound();
+            }
+
+            return View(candidate);
+
+            
+
+
+        }
+
+
         // GET: Candidates/Create
         public IActionResult Create()
         {
