@@ -1,5 +1,5 @@
 {
-  "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Jobs.csproj",
+  "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Jobs.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,143 +15619,148 @@
   "RootNamespace": "jobs_web",
   "Documents": [
     {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\ProfessionalExperiences\\Edit.cshtml",
-      "TargetPath": "Views\\ProfessionalExperiences\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Candidates\\AccessDenied.cshtml",
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Candidates\\AccessDenied.cshtml",
       "TargetPath": "Views\\Candidates\\AccessDenied.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Candidates\\Index.cshtml",
-      "TargetPath": "Views\\Candidates\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\ProfessionalExperiences\\Details.cshtml",
-      "TargetPath": "Views\\ProfessionalExperiences\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Candidates\\Delete.cshtml",
-      "TargetPath": "Views\\Candidates\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Empresas\\Index.cshtml",
-      "TargetPath": "Views\\Empresas\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\ProfessionalExperiences\\Delete.cshtml",
-      "TargetPath": "Views\\ProfessionalExperiences\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Educations\\Edit.cshtml",
-      "TargetPath": "Views\\Educations\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Educations\\Delete.cshtml",
-      "TargetPath": "Views\\Educations\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Educations\\Create.cshtml",
-      "TargetPath": "Views\\Educations\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Candidates\\Edit.cshtml",
-      "TargetPath": "Views\\Candidates\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Empresas\\Create.cshtml",
-      "TargetPath": "Views\\Empresas\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Candidates\\Create.cshtml",
-      "TargetPath": "Views\\Candidates\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\ProfessionalExperiences\\Create.cshtml",
-      "TargetPath": "Views\\ProfessionalExperiences\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\ProfessionalExperiences\\Index.cshtml",
-      "TargetPath": "Views\\ProfessionalExperiences\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Empresas\\Delete.cshtml",
-      "TargetPath": "Views\\Empresas\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Candidates\\Details.cshtml",
-      "TargetPath": "Views\\Candidates\\Details.cshtml",
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Educations\\Index.cshtml",
-      "TargetPath": "Views\\Educations\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Empresas\\Edit.cshtml",
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Empresas\\Edit.cshtml",
       "TargetPath": "Views\\Empresas\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Educations\\Details.cshtml",
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Educations\\Index.cshtml",
+      "TargetPath": "Views\\Educations\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Candidates\\Details.cshtml",
+      "TargetPath": "Views\\Candidates\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Candidates\\Index.cshtml",
+      "TargetPath": "Views\\Candidates\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Educations\\Details.cshtml",
       "TargetPath": "Views\\Educations\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "g:\\Meu Drive\\Puc\\Eixo 2\\Projeto\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Empresas\\Details.cshtml",
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Candidates\\Delete.cshtml",
+      "TargetPath": "Views\\Candidates\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Candidates\\Create.cshtml",
+      "TargetPath": "Views\\Candidates\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Empresas\\Create.cshtml",
+      "TargetPath": "Views\\Empresas\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\ProfessionalExperiences\\Details.cshtml",
+      "TargetPath": "Views\\ProfessionalExperiences\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Educations\\Create.cshtml",
+      "TargetPath": "Views\\Educations\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Candidates\\Resume.cshtml",
+      "TargetPath": "Views\\Candidates\\Resume.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Educations\\Edit.cshtml",
+      "TargetPath": "Views\\Educations\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Empresas\\Delete.cshtml",
+      "TargetPath": "Views\\Empresas\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\ProfessionalExperiences\\Delete.cshtml",
+      "TargetPath": "Views\\ProfessionalExperiences\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\ProfessionalExperiences\\Create.cshtml",
+      "TargetPath": "Views\\ProfessionalExperiences\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Educations\\Delete.cshtml",
+      "TargetPath": "Views\\Educations\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\ProfessionalExperiences\\Index.cshtml",
+      "TargetPath": "Views\\ProfessionalExperiences\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Empresas\\Index.cshtml",
+      "TargetPath": "Views\\Empresas\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Empresas\\Details.cshtml",
       "TargetPath": "Views\\Empresas\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Candidates\\Edit.cshtml",
+      "TargetPath": "Views\\Candidates\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\palom\\source\\pmv-ads-2022-1-e2-proj-int-t4-banco-curriculos\\Prova-POC\\jobs-web\\Views\\ProfessionalExperiences\\Edit.cshtml",
+      "TargetPath": "Views\\ProfessionalExperiences\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],
